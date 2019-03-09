@@ -5,4 +5,16 @@ Build a platformer in [Figma](https://figma.com) without code. As seen [here](ht
 
 [Live version](https://alyssax.com)
 
+# Features
+
+- Completely customizable assets
+- Multiple tiles (add as many variations as you want!)
+- Moving enemies
+- Lava
+- Locked doors (with keys)
+- Spikes
+- Health pickups
+- Gems
+- Custom game over & complete screens
+
 Made by 18 y/o 👩 [Alyssa](https://twitter.com/alyssaxuu). Feel free to reach out to me through email at hi@alyssax.com or [on Twitter](https://twitter.com/alyssaxuu) if you have any questions or feedback! 💜
