@@ -3,7 +3,7 @@
 <br>
 Build a platformer in [Figma](https://figma.com) without code. As seen [here](https://twitter.com/alyssaxuu/status/1103331459954368513) 🕹️
 
-[Live version](https://alyssax.com)
+[Live version](https://alyssax.com/x/platformer)
 
 # Features
 
