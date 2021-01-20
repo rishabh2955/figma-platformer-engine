@@ -300,7 +300,7 @@ function update(){
             ctx.drawImage(img,x,y,w,h);
         }
     }
-    if(hearts[i] == "1" && playerx+player.width>=x && player.x <=x+w && player.y<=y+h && player.y+player.height>=y) {
+    if(hearts[i] == "1" && player.x+player.width>=x && player.x <=x+w && player.y<=y+h && player.y+player.height>=y) {
         hearts[i] = "0";
         if (lives < 3) {
             lives++;
